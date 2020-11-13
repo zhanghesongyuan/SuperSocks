@@ -1,4 +1,4 @@
-## 欢迎来到 Super Socks Speed Test
+## 欢迎来到 Super Socks测速小能手
 
 如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
